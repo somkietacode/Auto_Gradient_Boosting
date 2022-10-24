@@ -1,2 +1,2 @@
 # Auto_Gradient_Boosting
-Implementation of an auto gradient boosting algorithm
+Implementation of auto gradient boosting algorithm
